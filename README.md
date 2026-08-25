@@ -70,6 +70,13 @@
 
 Hybrid 2D/3D U-Net pipeline with automated model routing for brain, liver, and lung tumor segmentation (Dice scores of 0.87 / 0.83 / 0.79), featuring Grad-CAM explainability and Monte Carlo dropout uncertainty, deployed as an interactive Streamlit app. Co-authored research currently under review at *Scientific Reports* (Nature Portfolio).
 
+### 🪸 [Coral Reef Health Classification](https://github.com/yspremreddy/coral-reef-health-classification)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-6E40C9?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-00A67E?style=flat-square)
+
+Deep learning-based computer vision system for classifying coral reef health from underwater imagery, designed to distinguish healthy and degraded coral conditions and support automated marine ecosystem assessment.
+
 ### 🤖 [RAG-Based AI Candidate Screening System](https://github.com/yspremreddy/candidate-screening-system)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![RAG/LLM](https://img.shields.io/badge/-RAG%2FLLM-6E40C9?style=flat-square)
