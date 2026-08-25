@@ -107,10 +107,13 @@ Automated ingestion and transformation of 50K+ sales records via Airflow DAGs in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yspremreddy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yspremreddy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yspremreddy&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yspremreddy&theme=radical&hide_border=true" />
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=yspremreddy&theme=radical&hide_border=true" />
 
 </div>
 
