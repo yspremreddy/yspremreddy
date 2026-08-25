@@ -103,17 +103,11 @@ Automated ingestion and transformation of 50K+ sales records via Airflow DAGs in
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yspremreddy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yspremreddy&layout=compact&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=yspremreddy&theme=radical&hide_border=true" />
+[![GitHub Profile](https://img.shields.io/badge/GitHub-yspremreddy-181717?style=for-the-badge&logo=github)](https://github.com/yspremreddy)
 
 </div>
 
