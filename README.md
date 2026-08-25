@@ -103,15 +103,9 @@ Automated ingestion and transformation of 50K+ sales records via Airflow DAGs in
 
 <br>
 
-## 📊 GitHub Activity
 
-<div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-yspremreddy-181717?style=for-the-badge&logo=github)](https://github.com/yspremreddy)
 
-</div>
-
-<br>
 
 ## 📚 Publications & Research
 
