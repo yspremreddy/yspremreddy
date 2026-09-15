@@ -1,17 +1,19 @@
 
 
-Readme · MD
 <div align="center">
+
 # Hi, I'm Prem Reddy 👋
- 
+
 ### AI/ML Engineer · Data Engineer · Research-driven builder
- 
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+deep+learning+systems+that+ship;Turning+messy+data+into+reliable+pipelines;PyTorch+%7C+U-Net+%7C+Airflow+%7C+SQL;Published+researcher+in+medical+imaging+%26+risk+modeling" alt="Typing SVG" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premreddyys/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yspremreddy@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=yspremreddy&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS)](https://github.com/yspremreddy)
- 
+
 </div>
+
 <br>
 ## 🚀 About Me
  
