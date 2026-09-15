@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Prem Reddy 👋
+Hi, I'm Prem Reddy 👋
 
 ### AI/ML Engineer · Data Engineer · Research-driven builder
 
@@ -15,7 +15,7 @@
 </div>
 
 <br>
-## 🚀 About Me
+ 🚀 About Me
  
 - 🎓 B.Tech Computer Science (AI), Amrita Vishwa Vidyapeetham — 2022 – 2026
 - 🔬 Published & in-review researcher across **medical imaging, healthcare risk prediction, and financial risk modeling**
@@ -24,7 +24,7 @@
 - 💬 Comfortable translating deep technical work for non-technical, cross-functional stakeholders
 - 📫 Reach me at **yspremreddy@gmail.com**
 <br>
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
  
 **Languages**
  
@@ -68,7 +68,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
  
 <br>
-## 🌟 Featured Projects
+ 🌟 Featured Projects
  
 ### 🧭 [ArchLens](https://github.com/yspremreddy/Archlens)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -116,7 +116,7 @@ Automated ingestion and transformation of 50K+ sales records via Airflow DAGs in
  
  
 <br>
-## 📚 Publications & Research
+ 📚 Publications & Research
  
 - **"A Unified Deep Learning Framework for Multi-Organ Tumor Detection and Segmentation"** — Submitted to *Scientific Reports* (Nature Portfolio), 2026; under peer review
 - **"Social Media Sentiment Analysis using Twitter Dataset"** — Published, ICOFE-2024, SSRN Elsevier Conference Proceedings
@@ -124,7 +124,7 @@ Automated ingestion and transformation of 50K+ sales records via Airflow DAGs in
 - **"Machine Learning for Risk Assessment: A Comparative Study of Models Predicting Loan Approval"** — Presented, ICOFE-2024, SSRN Elsevier Conference Proceedings
 <br>
 <div align="center">
-### 🤝 Let's Connect
+ 🤝 Let's Connect
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premreddyys/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yspremreddy@gmail.com)
