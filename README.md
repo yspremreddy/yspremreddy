@@ -112,7 +112,6 @@ Fraud-detection pipeline (Random Forest + XGBoost, SMOTE-balanced) achieving per
  
 Automated ingestion and transformation of 50K+ sales records via Airflow DAGs into PostgreSQL, with validation checks that improved downstream data quality by 95% and cut manual reporting effort by 3 hrs/week.
  
-> 💡 Replace `YOUR-REPO-NAME` above with each project's actual repo link once pinned.
  
 <br>
 ## 📚 Publications & Research
